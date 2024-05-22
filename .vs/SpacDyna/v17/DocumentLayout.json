@@ -1,0 +1,180 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ca.r214.07\\Desktop\\SpacDyna\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7255BB9B-9F6A-413E-A727-29D29F80F747}|SpacDyna\\SpacDyna.csproj|C:\\Users\\ca.r214.07\\Desktop\\SpacDyna\\spacdyna\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7255BB9B-9F6A-413E-A727-29D29F80F747}|SpacDyna\\SpacDyna.csproj|solutionrelative:spacdyna\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7255BB9B-9F6A-413E-A727-29D29F80F747}|SpacDyna\\SpacDyna.csproj|c:\\users\\ca.r214.07\\desktop\\spacdyna\\spacdyna\\areas\\admin\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7255BB9B-9F6A-413E-A727-29D29F80F747}|SpacDyna\\SpacDyna.csproj|solutionrelative:spacdyna\\areas\\admin\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7255BB9B-9F6A-413E-A727-29D29F80F747}|SpacDyna\\SpacDyna.csproj|c:\\users\\ca.r214.07\\desktop\\spacdyna\\spacdyna\\viewmodels\\category\\createcategoryvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7255BB9B-9F6A-413E-A727-29D29F80F747}|SpacDyna\\SpacDyna.csproj|solutionrelative:spacdyna\\viewmodels\\category\\createcategoryvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7255BB9B-9F6A-413E-A727-29D29F80F747}|SpacDyna\\SpacDyna.csproj|c:\\users\\ca.r214.07\\desktop\\spacdyna\\spacdyna\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7255BB9B-9F6A-413E-A727-29D29F80F747}|SpacDyna\\SpacDyna.csproj|solutionrelative:spacdyna\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7255BB9B-9F6A-413E-A727-29D29F80F747}|SpacDyna\\SpacDyna.csproj|C:\\Users\\ca.r214.07\\Desktop\\SpacDyna\\spacdyna\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7255BB9B-9F6A-413E-A727-29D29F80F747}|SpacDyna\\SpacDyna.csproj|solutionrelative:spacdyna\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7255BB9B-9F6A-413E-A727-29D29F80F747}|SpacDyna\\SpacDyna.csproj|c:\\users\\ca.r214.07\\desktop\\spacdyna\\spacdyna\\areas\\admin\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7255BB9B-9F6A-413E-A727-29D29F80F747}|SpacDyna\\SpacDyna.csproj|solutionrelative:spacdyna\\areas\\admin\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7255BB9B-9F6A-413E-A727-29D29F80F747}|SpacDyna\\SpacDyna.csproj|C:\\Users\\ca.r214.07\\Desktop\\SpacDyna\\spacdyna\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7255BB9B-9F6A-413E-A727-29D29F80F747}|SpacDyna\\SpacDyna.csproj|solutionrelative:spacdyna\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7255BB9B-9F6A-413E-A727-29D29F80F747}|SpacDyna\\SpacDyna.csproj|C:\\Users\\ca.r214.07\\Desktop\\SpacDyna\\spacdyna\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7255BB9B-9F6A-413E-A727-29D29F80F747}|SpacDyna\\SpacDyna.csproj|solutionrelative:spacdyna\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7255BB9B-9F6A-413E-A727-29D29F80F747}|SpacDyna\\SpacDyna.csproj|C:\\Users\\ca.r214.07\\Desktop\\SpacDyna\\spacdyna\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7255BB9B-9F6A-413E-A727-29D29F80F747}|SpacDyna\\SpacDyna.csproj|solutionrelative:spacdyna\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CreateCategoryVM.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.07\\Desktop\\SpacDyna\\SpacDyna\\ViewModels\\Category\\CreateCategoryVM.cs",
+              "RelativeDocumentMoniker": "SpacDyna\\ViewModels\\Category\\CreateCategoryVM.cs",
+              "ToolTip": "C:\\Users\\ca.r214.07\\Desktop\\SpacDyna\\SpacDyna\\ViewModels\\Category\\CreateCategoryVM.cs",
+              "RelativeToolTip": "SpacDyna\\ViewModels\\Category\\CreateCategoryVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T09:23:44.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r214.07\\Desktop\\SpacDyna\\SpacDyna\\Areas\\Admin\\Views\\Category\\Create.cshtml",
+              "RelativeDocumentMoniker": "SpacDyna\\Areas\\Admin\\Views\\Category\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ca.r214.07\\Desktop\\SpacDyna\\SpacDyna\\Areas\\Admin\\Views\\Category\\Create.cshtml",
+              "RelativeToolTip": "SpacDyna\\Areas\\Admin\\Views\\Category\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-22T09:14:37.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r214.07\\Desktop\\SpacDyna\\SpacDyna\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "SpacDyna\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\ca.r214.07\\Desktop\\SpacDyna\\SpacDyna\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "SpacDyna\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-22T07:18:18.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.07\\Desktop\\SpacDyna\\SpacDyna\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "SpacDyna\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\ca.r214.07\\Desktop\\SpacDyna\\SpacDyna\\Models\\Category.cs",
+              "RelativeToolTip": "SpacDyna\\Models\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAcAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T07:03:12.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r214.07\\Desktop\\SpacDyna\\SpacDyna\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "RelativeDocumentMoniker": "SpacDyna\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ca.r214.07\\Desktop\\SpacDyna\\SpacDyna\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "RelativeToolTip": "SpacDyna\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-22T06:32:33.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r214.07\\Desktop\\SpacDyna\\SpacDyna\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "SpacDyna\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\ca.r214.07\\Desktop\\SpacDyna\\SpacDyna\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "SpacDyna\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-22T06:51:02.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.07\\Desktop\\SpacDyna\\SpacDyna\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "SpacDyna\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\ca.r214.07\\Desktop\\SpacDyna\\SpacDyna\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "SpacDyna\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAArwBcAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T06:32:01.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r214.07\\Desktop\\SpacDyna\\SpacDyna\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "SpacDyna\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ca.r214.07\\Desktop\\SpacDyna\\SpacDyna\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "SpacDyna\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAB8AAAAAAAAAAAD4vzwAAAB7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-22T06:22:26.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.07\\Desktop\\SpacDyna\\SpacDyna\\Program.cs",
+              "RelativeDocumentMoniker": "SpacDyna\\Program.cs",
+              "ToolTip": "C:\\Users\\ca.r214.07\\Desktop\\SpacDyna\\SpacDyna\\Program.cs",
+              "RelativeToolTip": "SpacDyna\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T05:33:25.055Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
